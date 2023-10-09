@@ -1,0 +1,5 @@
+# Ignore all directories
+*/
+
+# Select files ending with .py
+!*.py
