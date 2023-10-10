@@ -9,6 +9,11 @@
 /code/TSC/Rocket/Rocket
 /code/TSC/**/outputs
 /code/TSC/**/images
+Datasets/
+Reports/
+code/Keylogger/
+/img
+/bup
 *.zip
-
+*.pptx
 *.py
