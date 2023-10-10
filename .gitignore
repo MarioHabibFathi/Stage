@@ -1,0 +1,14 @@
+/code/TSC/TRILITE
+/code/TSC/Jigsaw
+/code/TSC/Rocket/rocket-master/results
+/code/TSC/Rocket/rocket-master/LICENSE
+/code/TSC/Rocket/rocket-master/README.md
+/code/TSC/Rocket/minirocket-main/results
+/code/TSC/Rocket/minirocket-main/LICENSE
+/code/TSC/Rocket/minirocket-main/README.md
+/code/TSC/Rocket/Rocket
+/code/TSC/**/outputs
+/code/TSC/**/images
+*.zip
+
+*.py
